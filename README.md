@@ -2,13 +2,17 @@
 
 Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ によるオープンソースプロジェクトです。
 
-数年前、私たちは人々が<b>実際に読むことができるプライバシー通知</b>を構築することに着手しました。その結果、プライバシーポリシーの閲覧数が13,000%増加しました。このポリシーは現在、世界で最も多く引用されているポリシーの一つであり、クリーンな情報デザインの例として頻繁に使用されています。
+数年前、私たちは人々が<b>実際に読むことができるプライバシー通知</b>を構築することに着手しました。
+その結果、プライバシーポリシーの閲覧数が13,000%増加しました。このポリシーは現在、世界で最も多く引用されているポリシーの一つであり、クリーンな情報デザインの例として頻繁に使用されています。
 
 こちらをご覧ください： https://juro.com/#privacy-popup
 
 <img src="https://info.juro.com/hubfs/juro-privacy-policy-template-thumb-v2.png" alt="Juro privacy policy" width="644" height="615" />
 
-今なら、Juroのプライバシーポリシーで作成したデザインパターンを、ご自身のウェブサイトのプライバシーポリシーに無料でご利用いただけます。 <b>この文言とこれらのリンクでクレジットを記載するだけです。"このプライバシーポリシーは、以下のサイトで公開されているオープンソースのデザインに基づいています。 <a href="https://juro.com" target="_blank">Juro</a>&nbsp; and <a href="https://stefaniapassera.com" target="_blank">Stefania Passera</a>&nbsp; - ここから手に入れることができます <a href="https://info.juro.com/privacy-policy-template" target="_blank">無料のプライバシーポリシーテンプレート</a></b>."
+今なら、Juroのプライバシーポリシーで作成したデザインパターンを、ご自身のウェブサイトのプライバシーポリシーに無料でご利用いただけます。 <b>この文言とこれらのリンクでクレジットを記載するだけです。</b>
+ 
+
+> This privacy notice is based on an open-sourced design from Juro (https://juro.com) and Stefania Passera - get your own free privacy policy template here: https://info.juro.com/privacy-policy-template.
 
 提供されるプライバシーデザインパターンは以下の通りです。
 
@@ -17,6 +21,7 @@ Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ に�
 
 これらのプライバシーデザインパターンを独自のプライバシー通知に導入するための開発者向けの手順については、テクニカルReadmeファイルを参照してください。
 
+---
 
 <b>重要な法的事項</b> (そのため、怖いくらいの大文字になっています...。)
 
