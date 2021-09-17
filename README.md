@@ -1,3 +1,6 @@
+プレビューはこちらから
+https://tkgshn.github.io/free-privacy-notice/src/demo.html
+
 # デザインファーストのプライバシー通知テンプレート
 
 Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ によるオープンソースプロジェクトです。
@@ -7,7 +10,7 @@ Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ に�
 
 こちらをご覧ください： https://juro.com/#privacy-popup
 
-<img src="https://info.juro.com/hubfs/juro-privacy-policy-template-thumb-v2.png" alt="Juro privacy policy" width="644" height="615" />
+<a href="https://civichat.gyazo.com/b99e3e4fa4c419537c679fc1dc24919c"><img src="https://t.gyazo.com/teams/civichat/b99e3e4fa4c419537c679fc1dc24919c.jpg" alt="Image from Gyazo" width="1233"/></a>
 
 今なら、Juroのプライバシーポリシーで作成したデザインパターンを、ご自身のウェブサイトのプライバシーポリシーに無料でご利用いただけます。 <b>この文言とこれらのリンクでクレジットを記載するだけです。</b>
  
