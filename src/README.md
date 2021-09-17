@@ -1,26 +1,26 @@
-# Technical description
+# 技術解説
 
-## Folder structure
+# # フォルダ構造
 
-- *privacy* - contains scripts, styles and layout for part of the main privacy notice page.
-- *modal* - contains scripts, styles and layout for the pop-up privacy modal.
-- *res* - contains js, styles and other resources required by both the modal or privacy page.
-- *libs* - same as res, but 3rd party.
+- *privacy* - メインのプライバシー通知ページの一部のスクリプト、スタイル、レイアウトが含まれる。
+- *modal* - ポップアッププライバシーモーダル用のスクリプト、スタイル、レイアウトが含まれます。
+- *res* - モーダルまたはプライバシーページの両方で必要なjs、スタイル、その他のリソースが含まれます。
+- *libs* - resと同じですが、サードパーティ製です。
 
-## Modal
+## モーダル
 
-Simply put the content of modal.html on your pages where you want the modal to appear. Include the content of modal.js in your script file and content of modal.css to your styles file. Resources from the *res* folder also must be presented on all the pages where modal appears. Please note that having **#privacy-popup** in the URL will open popup automatically after opening the page (if you include modal.js, of course).
+modal.htmlの内容を、モーダルを表示したいページに貼り付けます。modal.jsの内容をスクリプトファイルに、modal.cssの内容をスタイルファイルに記述してください。また、モーダルを表示するすべてのページで、*res*フォルダのリソースを表示する必要があります。なお、URLに**#privacy-popup**を指定すると、ページを開いた後に自動的にポップアップが表示されます（もちろんmodal.jsが含まれていればの話ですが）。
 
-Besides this please
-- replace **/privacy.html** with the link to your privacy page.
-- adjust the text of the modal so it reflects your company.
+この他にも
+- **/privacy.html**を、あなたのプライバシーページへのリンクに置き換えてください。
+- モーダルのテキストを調整して、あなたの会社を反映させてください。
 
-## Privacy
+## プライバシー
 
-Privacy is the full privacy page (not the modal). It's a piece of layout that contains privacy-related information, patterns and icons. Simply put the content of privacy.html on your privacy page. Include the content of privacy.js in your script file and the content of modal.css in your styles file. Resources from the *res* folder also must be presented on the privacy page.
+プライバシー」はプライバシーページ（モーダルではありません）のことです。プライバシー関連の情報、パターン、アイコンなどを含むレイアウトの一部です。privacy.htmlの内容をプライバシーページに入れるだけです。privacy.jsの内容をスクリプトファイルに、modal.cssの内容をスタイルファイルに入れてください。また、*res*フォルダ内のリソースもプライバシーページに表示する必要があります。
 
-## Demo
+## デモ
 
-The demo page contains both privacy and modal layout as well as the simplest page structure. To see a proper demo page you need to open with a local server since because of the browser's security settings you won't see SVG icons if sprite.svg is stored locally. But with no local server, you will see everything else properly except the icons. To open the popup simply add **#privacy-popup** to the URL.
+デモページには、プライバシーとモーダルの両方のレイアウトが含まれており、最もシンプルなページ構造になっています。ブラウザのセキュリティ設定により、ローカルに保存されたsprite.svgではSVGアイコンが表示されないため、適切なデモページを見るためには、ローカルサーバで開く必要があります。しかし、ローカルサーバーがない場合は、アイコン以外のすべてのものが正しく表示されます。ポップアップを開くには、URLに **#privacy-popup** を追加するだけです。
 
-Note the separate README.md file for information on how you can use the policy, including the license.
+ライセンスを含むポリシーの使用方法については、別のREADME.mdファイルを参照してください。
