@@ -1,30 +1,29 @@
-# Design-first privacy notice template
+# デザインファーストのプライバシー通知テンプレート
 
-The Juro Privacy Notice is an open source project by https://juro.com and https://stefaniapassera.com/. 
+Juro Privacy Noticeは、https://juro.com と https://stefaniapassera.com/ によるオープンソースプロジェクトです。
 
-A couple of years ago, we set out to build <b>a privacy notice that people could actually read</b>. This led to a 13,000% increase in views of the notice. The policy is now one of the most commonly-cited policies in the world and is frequently used as an example of clean information design. 
+数年前、私たちは人々が<b>実際に読むことができるプライバシー通知<b>を構築することに着手しました。その結果、プライバシーポリシーの閲覧数が13,000%増加しました。このポリシーは現在、世界で最も多く引用されているポリシーの一つであり、クリーンな情報デザインの例として頻繁に使用されています。
 
-Check it out here: https://juro.com/#privacy-popup
+こちらをご覧ください： https://juro.com/#privacy-popup
 
 <img src="https://info.juro.com/hubfs/juro-privacy-policy-template-thumb-v2.png" alt="Juro privacy policy" width="644" height="615" />
 
-Now, you can use the design patterns created for the Juro privacy notice on your own website privacy notice for free! <b>You just need to include a credit with this wording and these links: "This privacy notice is based on an open-sourced design from <a href="https://juro.com" target="_blank">Juro</a>&nbsp; and <a href="https://stefaniapassera.com" target="_blank">Stefania Passera</a>&nbsp; - get your own <a href="https://info.juro.com/privacy-policy-template" target="_blank">free privacy policy template</a></b>."
+今なら、Juroのプライバシーポリシーで作成したデザインパターンを、ご自身のウェブサイトのプライバシーポリシーに無料でご利用いただけます。 <b>この文言とこれらのリンクでクレジットを記載するだけです。"このプライバシーポリシーは、以下のサイトで公開されているオープンソースのデザインに基づいています。 <a href="https://juro.com" target="_blank">Juro</a>&nbsp; and <a href="https://stefaniapassera.com" target="_blank">Stefania Passera</a>&nbsp; - ここから手に入れることができます <a href="https://info.juro.com/privacy-policy-template" target="_blank">無料のプライバシーポリシーテンプレート</a></b>."
 
-The privacy design patterns offered include:
+提供されるプライバシーデザインパターンは以下の通りです。
 
-- A 'privacy summary' modal
-- The full layered privacy notice
+- 「プライバシーの概要」モーダル表示
+- フルレイヤーのプライバシー通知
 
-See the technical readme file for developer instructions on how you can deploy these privacy design patterns in your own privacy notice.
+これらのプライバシーデザインパターンを独自のプライバシー通知に導入するための開発者向けの手順については、テクニカルReadmeファイルを参照してください。
 
-If you build your website with Webflow, <a href="https://bearer.sh" target="_blank">Bearer</a>&nbsp;has adapted these design patterns into a <a href="https://webflow.com/website/privacy-policy-template-bearer" target="_blank">free Webflow template</a>&nbsp;you can clone and customise. Note you must still include in the Webflow template the credit above.  
 
-<b>IMPORTANT LEGAL STUFF</b> (hence the scary capital letters...)
+<b>重要な法的事項</b> (そのため、怖いくらいの大文字になっています...。)
 
-Subject to the below Juro Online Limited (known as Juro) and Stefania Passera grant you a worldwide, royalty-free, non-exclusive right to use the design patterns in the privacy notice and the code base in this repository. 
+以下を条件として、Juro Online Limited（以下、Juro）とStefania Passeraは、プライバシーポリシーに記載されているデザインパターンと、このリポジトリのコードベースを使用するための世界的、ロイヤリティフリー、非独占的な権利を許諾します。
 
-- You <b>MUST customise the text of the agreement</b> to cover the needs of your business. There is no such thing as a one-size-fits-all privacy notice.
-- You may adjust the design of the privacy notice to suit your brand but <b>you must not resell or redistribute the privacy notice in your product or service</b>.
-- Users of the privacy design patterns expressly agree that they <b>do not consider the patterns legal advice in any way</b>. 
-- The Juro privacy notice uses icons from streamlineicons.com - these icons are <b>not</b> open source and can be used <b>only for this project</b>.
-- Juro Online Limited and Stefania Passera expressly <b>exclude any liability</b> arising from the use of the privacy design patterns or the privacy notice you build. 
+- あなたのビジネスのニーズをカバーするために、契約書のテキストを<b>カスタマイズしなければなりません</b>。万能なプライバシー通知というものはありません。
+- 自分のブランドに合わせてプライバシー通知のデザインを調整することはできますが、<b>自分の製品やサービスの中でプライバシー通知を転売したり、再配布したりしてはいけません</b>。
+- プライバシー・デザイン・パターンの利用者は、<b>パターンをいかなる形でも法的助言とみなさない</b>ことに明示的に同意するものとします。
+- Juroのプライバシー通知はstreamlineicons.comのアイコンを使用しています。これらのアイコンは<b>オープンソースではなく</b>、<b>このプロジェクトのためだけに使用することができます</b>。
+- Juro Online LimitedとStefania Passeraは、プライバシー・デザイン・パターンの使用または構築されたプライバシー通知から生じるいかなる責任も明示的に<b>除外します</b>。
