@@ -1,5 +1,5 @@
 プレビューはこちらから
-https://tkgshn.github.io/free-privacy-notice/src/demo.html
+https://civichat.github.io/free-privacy-notice/src/demo
 
 # デザインファーストのプライバシー通知テンプレート
 
